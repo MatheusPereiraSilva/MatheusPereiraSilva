@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Pereira 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pereiramatheus27/)
-[![Portifólio](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://studioindoor.com.br/)
+[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://studioindoor.com.br/)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPereiraSilva&show_icons=true&theme=radical)
 
@@ -13,5 +13,8 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPereiraSilva&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPereiraSilva&hide_progress=true)
+
+<br>
