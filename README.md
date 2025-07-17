@@ -1,4 +1,4 @@
-# <span style="color: #8A2BE2">🧙‍♂️ Grimório Arcano de DevMP</span>
+# <span style="color: #8A2BE2" text-align="center">🧙‍♂️ Grimório Arcano de DevMP</span>
 
 > *"Nestas páginas encantadas, guardo os segredos de minha arte digital - onde cada linha de código é um feitiço, cada algoritmo um encantamento, e cada projeto uma magia desvendada."*
 
