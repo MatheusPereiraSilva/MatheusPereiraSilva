@@ -77,13 +77,6 @@
 
 ---
 
-### <span style="color: #FFD700">🌟 Feitiços Principais (Melhores Projetos)</span>
-1. **<span style="color: #4FC3F7">Poção de Invisibilidade Web</span>** - Sistema de proxy avançado com Python
-2. **<span style="color: #FF5733">Encantamento de Fogo Controlado</span>** - API de autenticação com PHP Laravel
-3. **<span style="color: #9C27B0">Simulacro de Batalha Épica</span>** - Jogo 2D em Unity/C#
-
----
-
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3loNmUxcnM5YjNqYTNhc29qbjVlaWs1NTYyYWt3eGY3eDA0Y2ZiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpDnYgdU41RrVQJSeX/giphy.gif" width="800" height="300" alt="Magic Sparkles">
   
